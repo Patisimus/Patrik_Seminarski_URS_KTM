@@ -1,0 +1,15 @@
+liquidcrystal_i2c.c:20:6:LCDIspis_Init	16	static
+liquidcrystal_i2c.c:62:6:LCDIspis_Clear	8	static
+liquidcrystal_i2c.c:68:6:LCDIspis_Home	8	static
+liquidcrystal_i2c.c:74:6:LCDIspis_SetCursor	40	static
+liquidcrystal_i2c.c:84:6:LCDIspis_Display	8	static
+liquidcrystal_i2c.c:90:6:LCDIspis_ScrollDisplayLeft	8	static
+liquidcrystal_i2c.c:95:6:LCDIspis_PrintStr	16	static
+liquidcrystal_i2c.c:103:13:SendCommand	16	static
+liquidcrystal_i2c.c:108:13:SendChar	16	static
+liquidcrystal_i2c.c:113:13:Send	24	static
+liquidcrystal_i2c.c:121:13:Write4Bits	16	static
+liquidcrystal_i2c.c:127:13:ExpanderWrite	32	static
+liquidcrystal_i2c.c:133:13:PulseEnable	16	static
+liquidcrystal_i2c.c:142:13:DelayInit	4	static,ignoring_inline_asm
+liquidcrystal_i2c.c:157:13:DelayUS	32	static

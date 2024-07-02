@@ -1,0 +1,15 @@
+lcd_biblioteka.c:30:6:LCDIspis_Init	16	static
+lcd_biblioteka.c:75:6:LCDIspis_Clear	8	static
+lcd_biblioteka.c:84:6:LCDIspis_Home	8	static
+lcd_biblioteka.c:93:6:LCDIspis_SetCursor	40	static
+lcd_biblioteka.c:105:6:LCDIspis_Display	8	static
+lcd_biblioteka.c:113:6:LCDIspis_ScrollDisplayLeft	8	static
+lcd_biblioteka.c:120:6:LCDIspis_PrintStr	16	static
+lcd_biblioteka.c:130:6:SendCommand	16	static
+lcd_biblioteka.c:137:6:SendChar	16	static
+lcd_biblioteka.c:144:6:Send	24	static
+lcd_biblioteka.c:154:6:Write4Bits	16	static
+lcd_biblioteka.c:162:6:ExpanderWrite	32	static
+lcd_biblioteka.c:170:6:PulseEnable	16	static
+lcd_biblioteka.c:181:6:DelayInit	4	static,ignoring_inline_asm
+lcd_biblioteka.c:198:6:DelayUS	32	static
